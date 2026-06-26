@@ -4,10 +4,10 @@ Data Compression, TU Delft, Q3, Group Project
 # Repository Contents
 
 - `main.m`: main script
-- `COMP.m`: main script
-- `DD.m`: main script
-- `MP.m`: main script
-- `nnLASSO.m`: main script
+- `COMP.m`: Combinatorial Orthogonal Matching Pursuit algorithm
+- `DD.m`: Definite Defective algorithm
+- `MP.m`: Matching Pursuit algorithm
+- `nnLASSO.m`: non-negative LASSO algorithm
 - `report.pdf`: project report
 - `GroupTesting.mat`: data
 
